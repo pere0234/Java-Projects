@@ -5,3 +5,4 @@
 * If three contiguous spaces are marked with the same symbol in a row, column, or diagonally, player wins.
 * Programming functions used: BufferedReader, IOExceptions, InputStreamReader, 2-D Arrays, Loops, Case structures, User prompts.
 * Includes JavaDoc documentation
+![recording (2)](https://user-images.githubusercontent.com/77496752/117146974-c658e380-ad82-11eb-8f2e-bcf8c4becd79.gif)
